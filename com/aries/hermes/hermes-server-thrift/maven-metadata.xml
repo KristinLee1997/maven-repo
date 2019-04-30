@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.aries.hermes</groupId>
+  <artifactId>hermes-server-thrift</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190430101912</lastUpdated>
+  </versioning>
+</metadata>
